@@ -1,0 +1,19 @@
+{
+  "java.project.sourcePaths": [
+    "triangleArea",
+    "stringOper/compare",
+    "squareArea",
+    "sortArrays",
+    "searchArray",
+    "removeArray",
+    "rectangleArea",
+    "pyramid",
+    "fahrenheitCelsius",
+    "copyArray",
+    "circleArea",
+    "calculator",
+    "arraySum",
+    "arrayAverage",
+    "stringOper/length"
+  ]
+}
